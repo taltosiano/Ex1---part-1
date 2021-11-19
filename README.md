@@ -1,3 +1,5 @@
+Tal Tosiano 208846600, Adi marroco 206502544
+
 # Ex1---part-
 
 1.In the previous assignment we found a number of sources describing the conduct of the elevator. We will use the information we gathered from them.
